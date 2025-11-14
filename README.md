@@ -73,7 +73,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 4 | Aplicar estilos CSS | [CodePen](https://codepen.io/abigoe02/pen/yyOemBj) |  
 | 5 | Página personal | [CodePen](https://codepen.io/abigoe02/pen/PwNNYxL) |  
 
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)  
+- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/d4FRUdQ2CXweNYZH7)  
 - Compartir: #WebDevBeginners  
 
 **¡Gracias por completar el curso!**
