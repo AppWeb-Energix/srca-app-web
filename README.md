@@ -24,41 +24,41 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Aprende las etiquetas básicas de HTML y crea tu primera página web.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/VhqegCfMjio)  
 - **Conclusiones clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.  
-- **Práctica**: [link](link) 👈 *¡No necesitas registrarte!*
+- **Práctica**: [Haz clic para practicar](https://codepen.io/abigoe02/pen/VYaeJzN) 👈 *¡No necesitas registrarte!*
 
 ---
 
 ### Lección 3: Elementos comunes de HTML (8 minutos)
 - **Descripción**: Agrega imágenes, listas y enlaces para enriquecer tu página.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/d1g64wgYiOI)
 - **Conclusiones clave**: Usa `<img>`, `<a>`, `<ul>`, `<li>`.  
-- **Práctica**: [link](link) 👈 *¡Comienza al instante!*
+- **Práctica**: [Haz clic para practicar](https://codepen.io/abigoe02/pen/jEqWjzm) 👈 *¡Comienza al instante!*
 
 ---
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Da estilo a tu HTML con colores, fuentes y bordes.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/yWm4F7HvsN0)
 - **Conclusiones clave**: Usa selectores, propiedades (`color`, `font-family`, `background-color`).  
-- **Práctica**: [link](link) 👈 *¡Edita y visualiza al instante!*
+- **Práctica**: [Haz clic para practicar](https://codepen.io/abigoe02/pen/yyOemBj) 👈 *¡Edita y visualiza al instante!*
 
 ---
 
 ### Lección 5: Crea tu primera página web (15 minutos)
 - **Descripción**: Combina HTML y CSS para construir una página de perfil personal.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/xDbXjGWXGLE)  
 - **Conclusiones clave**: Organiza tu código y aplica estilos coherentes.  
-- **Proyecto final**: [link](link) 👈 *¡Guarda y comparte!*
+- **Proyecto final**: [Haz clic para comenzar tu proyecto](https://codepen.io/abigoe02/pen/PwNNYxL?editors=1100) 👈 *¡Guarda y comparte!*
 
 ---
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y cómo seguir aprendiendo.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/lY1CTcO3Elk)  
 - **Conclusiones clave**: Valida tu código con herramientas como **W3C Validator** y explora la documentación de **MDN Web Docs**.  
-- **Comparte tu trabajo**: [link](link)
+- **Comparte tu trabajo**: [Haz clic para subir tu proyecto](https://codepen.io/pen/)
 
 ---
 
@@ -68,11 +68,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Nº | Actividad | Empezar a programar |  
 |----|------------|---------------------|  
-| 1 | ¿Qué es un sitio web? | [CodePen](link) |  
-| 2 | Primera página HTML | [CodePen](link) |  
-| 3 | Imágenes y enlaces | [CodePen](link) |  
-| 4 | Aplicar estilos CSS | [CodePen](link) |  
-| 5 | Página personal | [CodePen](link) |  
+| 2 | Primera página HTML | [CodePen](https://codepen.io/abigoe02/pen/VYaeJzN) |  
+| 3 | Imágenes y enlaces | [CodePen](https://codepen.io/abigoe02/pen/jEqWjzm) |  
+| 4 | Aplicar estilos CSS | [CodePen](https://codepen.io/abigoe02/pen/yyOemBj) |  
+| 5 | Página personal | [CodePen](https://codepen.io/abigoe02/pen/PwNNYxL) |  
 
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)  
 - Compartir: #WebDevBeginners  
@@ -88,7 +87,7 @@ Período académico: **202520**
 Curso: **1ASI0730 Aplicaciones Web**  
 NRC: **7470**  
 
-**Nombre del equipo**: GeoPS Labs  
+**Nombre del equipo**: Energix Manager
 **Líder del equipo**: Goñe Araccata, Esther Abigail
 
 **Integrantes del equipo**:  
