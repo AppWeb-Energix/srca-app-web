@@ -8,7 +8,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Prerrequisitos**: Ninguno  
 - **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
 
-**📂 Repositorio de Código Fuente**: [link](link)
+**📂 Repositorio de Código Fuente**: [link](https://github.com/AppWeb-Energix/srca-app-web.git)
 
 ---
 
