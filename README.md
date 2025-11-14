@@ -16,9 +16,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende qué es un sitio web y por qué HTML y CSS son los lenguajes básicos de la web.  
-- **Enlace**: [Ver la lección](link)  
+- **Enlace**: [Ver la lección](https://youtu.be/Yb7jCeWpky8)  
 - **Conclusiones clave**: Los sitios web combinan **HTML (estructura)** y **CSS (diseño)**.  
-- **Empieza a programar**: [link](link)
+- **Empieza a programar**: [Abrir CodePen](https://codepen.io/trending)
 
 ---
 
@@ -89,7 +89,7 @@ Curso: **1ASI0730 Aplicaciones Web**
 NRC: **7470**  
 
 **Nombre del equipo**: GeoPS Labs  
-**Líder del equipo**: Salazar Caballero, Alvaro Fabrizzio  
+**Líder del equipo**: Goñe Araccata, Esther Abigail
 
 **Integrantes del equipo**:  
 - Cotrina Siclla, Sofia Alessandra
